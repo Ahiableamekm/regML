@@ -20,9 +20,9 @@ each of those markets for three diferent media: `TV`, `radio`, and `newspaper`. 
 ![alt text](/images/dataset.png "Sales and ADverisement Expenditure")
 
 Below is a short explanation of the columns:
-TV: Expense made on TV advertisement
-radio: Expense made on radio advertisement
-newspaper: Expenses made on newspaper advertisement
-Sales: Amount generated from sales of product
+* TV: Expense made on TV advertisement
+* radio: Expense made on radio advertisement
+* newspaper: Expenses made on newspaper advertisement
+* Sales: Amount generated from sales of product
 
 
