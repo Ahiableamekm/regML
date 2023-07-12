@@ -17,7 +17,7 @@ We hope to drive growth, boost sales, and achieve marketing success in the dynam
 The Advertising data set consists of the sales of product
 in 200 diferent markets, along with advertising budgets for the product in
 each of those markets for three diferent media: `TV`, `radio`, and `newspaper`. A screenshot of the data can be seen below:
-![alt text](dataset.png "Sales and ADverisement Expenditure")
+![alt text](/images/dataset.png "Sales and ADverisement Expenditure")
 
 Below is a short explanation of the columns:
 TV: Expense made on TV advertisement
