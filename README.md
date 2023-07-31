@@ -72,25 +72,15 @@ such a recommendation? Few important questions that we might seek address:
 **e. How accurately can we predict future sales?**
 - For any given expenditure on television, radio, or newspaper advertising, what is our prediction for sales, and what is the accuracy of this prediction?
 
-    $H_{0}$: 
-    
-    $H_{1}$: 
+
 
 **f.  Is the relationship linear?**
 - f there is approximately a straight-line relationship between advertising expenditure in the various media and sales, then linear regression is an appropriate tool. If not, then it may still be possible to transform the predictor or the response so that linear regression can be
 used.
 
-    $H_{0}$: 
-    
-    $H_{1}$:
-
-
 **f.  Is there synergy among the advertising media?**
 - Perhaps spending $50,000 on television advertising and $50,000 on radio advertising results in more sales than allocating $100,000 to either television or radio individually. In marketing, this is known as a synergy effect, while in statistics it is called an interaction effect.
 
-    $H_{0}$: 
-    
-    $H_{1}$: 
 
 
 
